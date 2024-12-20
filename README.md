@@ -11,3 +11,7 @@
 - Refresh your knowledge of Spring Boot.
 - Get hands-on experience with database integration using MySQL.
 - Understand CI/CD pipelines and how they improve software quality.
+
+### Running Code:
+- docker-compose up -d
+

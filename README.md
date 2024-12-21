@@ -14,4 +14,5 @@
 
 ### Running Code:
 - docker-compose up -d
+- run the project
 
